@@ -11,7 +11,7 @@
 ---
 
 ## 🐍 **Powered By Python**  
-![Python Logo](https://dummyimage.com/600x200/306998/fff&text=Python+Powered)  
+![Python Logo](https://www.python.org/static/community_logos/python-logo-master-v3-TM.png)  
 This tool leverages Python's flexibility and performance, making it lightweight yet powerful.
 
 ---
