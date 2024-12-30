@@ -37,7 +37,7 @@ This tool leverages Python's flexibility and performance, making it lightweight 
    cd DDoS_PANEL
    chmod +x *
    pip install -r requirements.txt
-   python3 ddos_panel.py
+   python3 DDoS_Panel.py
    ```
 
 ---
