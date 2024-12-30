@@ -61,9 +61,19 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 **Tagline:** _"A Trusted Termux Learning Point."_  
 
 ---
-```
 
-### Key Points:
-1. Replace the placeholder logo links with your hosted logo images.
-2. Ensure the tool's features, usage instructions, and license match your actual project.
-3. Add any additional functionality or customization details specific to your DDoS tool.
+
+### 🚨 **User Alert and Disclaimer**
+
+- **This tool is strictly for educational and authorized stress-testing purposes only.**
+- Unauthorized use of this tool against websites, servers, or networks without explicit permission is **ILLEGAL** and punishable under **cybercrime laws**.
+- The developers of this tool, **TEAM SHADOW STRIKER**, are not responsible for any misuse or illegal activity performed using this tool.
+- By using this tool, you agree to the following:
+  - You have explicit authorization from the owner of the targeted system to perform stress tests.
+  - You will not use this tool for malicious or unauthorized purposes.
+  - You acknowledge that misuse of this tool may lead to severe consequences, including **legal actions**, **fines**, or **imprisonment**.
+
+---
+
+**Use responsibly and stay within legal boundaries!**  
+_Always remember: Ethical hacking protects, not destroys._
