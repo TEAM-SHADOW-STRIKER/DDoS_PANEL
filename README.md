@@ -35,6 +35,7 @@ This tool leverages Python's flexibility and performance, making it lightweight 
    pip install requests
    git clone https://github.com/TEAM-SHADOW-STRIKER/DDoS_PANEL.git
    cd DDoS_PANEL
+   chmod +x *
    pip install -r requirements.txt
    python3 ddos_panel.py
    ```
